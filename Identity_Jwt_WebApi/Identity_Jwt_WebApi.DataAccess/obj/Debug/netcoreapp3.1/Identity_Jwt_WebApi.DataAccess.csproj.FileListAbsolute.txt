@@ -1,0 +1,16 @@
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.deps.json
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.runtimeconfig.json
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.runtimeconfig.dev.json
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.dll
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.pdb
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.dll
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.pdb
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.csproj.CopyComplete
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.dll
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.pdb
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.DataAccess\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.genruntimeconfig.cache

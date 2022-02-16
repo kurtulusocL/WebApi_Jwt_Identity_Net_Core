@@ -1,0 +1,15 @@
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.deps.json
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.dll
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.pdb
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.dll
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.pdb
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.csproj.CopyComplete
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.dll
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Business.pdb
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.dll
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Business\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.DataAccess.pdb

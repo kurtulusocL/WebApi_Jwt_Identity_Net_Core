@@ -1,0 +1,13 @@
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.deps.json
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.runtimeconfig.json
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.runtimeconfig.dev.json
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.dll
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\bin\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.pdb
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.dll
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.pdb
+C:\Users\kurtulusocL\Desktop\Identity_Jwt_WebApi\Identity_Jwt_WebApi.Core\obj\Debug\netcoreapp3.1\Identity_Jwt_WebApi.Core.genruntimeconfig.cache
